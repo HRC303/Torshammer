@@ -137,7 +137,7 @@ class TerminalController:
         else: return getattr(self, s[2:-1])
 
 #######################################################################
-# Example use case: progress bar
+# BY.TEAM ZONAREDXXII SECURITY HACKER COMMANDER
 #######################################################################
 
 class ProgressBar:
