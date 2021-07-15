@@ -1,2 +1,3 @@
 # Tor's hammer
-## Written by not me
+## Written by ZonaredXXII
+git clone https://github.com/zonaredXXII/Torshammer.git
